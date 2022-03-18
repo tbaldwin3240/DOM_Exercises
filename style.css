@@ -33,7 +33,7 @@
 }
 
 #equal {
-    background-color: rgb(85, 85, 255);
+    background-color:green;
     color: white;
 }
 
@@ -41,4 +41,7 @@
     background-color: #323330;
     color: white;
     transition: 0.5s ease-in-out;
+}
+div#display{
+    background-color:cyan
 }
